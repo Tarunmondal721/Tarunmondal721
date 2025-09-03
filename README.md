@@ -13,7 +13,7 @@
 ---
 
 ## 💡 About Me  
-- 🔭 Currently working on: **SkillBridge – A Micro-Mentorship Platform**  
+- 🔭 Currently working on: **DashBoard-Linkit360**  
 - 🌱 Learning: **React.js | Node.js | Python | MongoDB**  
 - 💻 Building: **Automated Accounting & Invoicing Platform (Laravel + React)**  
 - ❤️ Passionate about: **NGO Tech Projects (Suhrit Organisation)**  
