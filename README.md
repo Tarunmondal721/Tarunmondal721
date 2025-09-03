@@ -1,36 +1,36 @@
-<h1 align="center">Hi there 👋, I'm Tarun Mondal</h1>
+<h1 align="left">Hi there 👋, I'm Tarun Mondal</h1>
 
-<p align="center">
+<p align="left">
   <em>🚀 Full-Stack Developer | Laravel | React | Node.js | Open Source Enthusiast</em>
 </p>
 
 ---
 
-<!-- Responsive container -->
-<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
-
-  <!-- Typing animation -->
-  <div style="flex: 1; min-width: 280px; max-width: 500px;">
-    <a href="https://github.com/Tarunmondal721">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0AEFFF&center=false&vCenter=true&width=500&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Node.js;API+%7C+Database+Explorer;Open+Source+Contributor;Always+Learning+New+Things+🚀" alt="Typing Animation" />
-    </a>
-  </div>
-
-  <!-- Coding GIF -->
-  <div style="flex: 1; min-width: 280px; text-align: center;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width:320px; border-radius:10px;" alt="Coding GIF">
-  </div>
-
-</div>
-
----
-
-## 💡 About Me  
+<table>
+<tr>
+<td width="60%">
+  
+### 💡 About Me  
 - 🔭 Currently working on: **DashBoard-Linkit360**  
 - 🌱 Learning: **React.js | Node.js | Python | MongoDB**  
 - 💻 Building: **Automated Accounting & Invoicing Platform (Laravel + React)**  
 - ❤️ Passionate about: **NGO Tech Projects (Suhrit Organisation)**  
 - ⚡ Fun fact: I love blending **creativity with clean code** ✨  
+
+<p align="left">
+  <a href="https://github.com/Tarunmondal721">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0AEFFF&vCenter=true&width=500&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Node.js;API+%7C+Database+Explorer;Open+Source+Contributor;Always+Learning+New+Things+🚀" alt="Typing Animation" />
+  </a>
+</p>
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF">  
+
+</td>
+</tr>
+</table>
 
 ---
 
