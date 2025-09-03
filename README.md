@@ -1,23 +1,36 @@
-<h1 align="center">Hi there 👋, I'm Tarun Mondal</h1>
+<h1 align="left">Hi there 👋, I'm Tarun Mondal</h1>
 
-<p align="center">
-  <a href="https://github.com/Tarunmondal721">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Node.js;Open+Source+Contributor;API+%7C+Database+Explorer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+<p align="left">
+  <em>🚀 Full-Stack Developer | Laravel | React | Node.js | Open Source Enthusiast</em>
 </p>
 
 ---
 
-## 💡 About Me  
+<table>
+<tr>
+<td width="60%">
+  
+### 💡 About Me  
 - 🔭 Currently working on: **DashBoard-Linkit360**  
 - 🌱 Learning: **React.js | Node.js | Python | MongoDB**  
 - 💻 Building: **Automated Accounting & Invoicing Platform (Laravel + React)**  
 - ❤️ Passionate about: **NGO Tech Projects (Suhrit Organisation)**  
 - ⚡ Fun fact: I love blending **creativity with clean code** ✨  
+
+<p align="left">
+  <a href="https://github.com/Tarunmondal721">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0AEFFF&vCenter=true&width=500&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Node.js;API+%7C+Database+Explorer;Open+Source+Contributor;Always+Learning+New+Things+🚀" alt="Typing Animation" />
+  </a>
+</p>
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF">  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -56,6 +69,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tarunmondal721&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarunmondal721&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarunmondal721&theme=tokyonight" alt="Profile Details"/>
 </p>
 
 ---
